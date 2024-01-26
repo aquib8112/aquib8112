@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I am Aquib Ahmad 👋
+- Fueled by a passion for building captivating mobile experiences, I'm diving headfirst into the world of Native Android development! 
+- With a solid foundation in Kotlin and Java, I'm already exploring powerful tools like Coroutines, Room Database, and Retrofit to bring my ideas to life. 
+- ⚡️ Check out my latest projects below – I'd love to hear your thoughts! ➡️ [link to projects]
+
+
+<!--### Hi, I am Aquib Ahmad 👋
+I am currently learning Native Android Devlopment at the moment.
+I have clear fundamentals of kotlin and Java.
+I have worked with tool's like Coroutines, Room Database and Retrofit which are primarly used in native devlopment.
+You can check my projects below, Thank You.-->
 
 <!--
 **aquib8112/aquib8112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
