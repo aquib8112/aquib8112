@@ -1,7 +1,7 @@
 ### Hi, I am Aquib Ahmad 👋
 - Fueled by a passion for building captivating mobile experiences, I'm diving headfirst into the world of Native Android development! 
 - With a solid foundation in Kotlin and Java, I'm already exploring powerful tools like Coroutines, Room Database, and Retrofit to bring my ideas to life.
-- I'm actively seeking exciting opportunities to collaborate and Learn new things.
+- I'm actively seeking job opportunities to collaborate and Learn new things.
 - ⚡️ Check out my latest projects below – I'd love to hear your thoughts!
 
 
